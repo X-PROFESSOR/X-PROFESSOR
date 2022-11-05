@@ -8,7 +8,7 @@ I'm a **Student** passionate about **Games**, **Tech** and **Programming**.
 * 🎮 **Part-Time Gamer**
 * 💻 **Computer Enthusiast**
 * ✉️ **Email me at nileshmukherjee1855@gmail.com**
-* 👦 **About me:** 👨‍🍳 Home Cook, 🌱 Home Gardener
+* 👦 **About me:** 📖 Book Reader, 🎮 Gamer, 🎵 Music Lover
 * <img src="https://api.iconify.design/logos:microsoft-windows.svg" alt="Linux" width=24 height=24><img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=24 height=24> **Windows and Linux User** (I use Manjaro, btw)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-PROFESSOR)
