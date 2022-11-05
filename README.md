@@ -21,6 +21,8 @@ I'm a **Student** passionate about **Games**, **Tech** and **Programming**.
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:javascript.svg" alt="JavaScript" width=48 height=48></a>
 </span>
 
+<br>
+
 ## Languages & Frameworks (worked with)
 <span>
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -33,7 +35,7 @@ I'm a **Student** passionate about **Games**, **Tech** and **Programming**.
 | **Frontend**                                                                                                                                                                                  | **Backend**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos:react.svg" alt="React" width=48 height=48> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="48" height="48"/> </a> | <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos:nodejs.svg" alt="nodejs" width=48 height=48 /> </a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:nextjs.svg" alt="nextjs" width=48 height=48 /></a> |
-<br>
+
 <br>
 
 ### Most used programming languages:
@@ -41,10 +43,14 @@ I'm a **Student** passionate about **Games**, **Tech** and **Programming**.
 - CSS
 - C++
 
+<br>
+
 ## Reach me on
 
 <span>  
 <a href="https://twitter.com/nilesh_mukherje" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:twitter.svg" alt="twitter" width=35 height=35"/></a>
+&nbsp
 <a href="https://linkedin.com/in/nilesh-mukherjee-182a051bb" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:linkedin-icon.svg" alt="linkedin" width=35 height=35"/></a>  
+&nbsp
 <a href="https://discordapp.com/channels/@me/𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑#3896" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:discord-icon.svg" alt="discord" width=35 height=35"/></a>  
 </span>
