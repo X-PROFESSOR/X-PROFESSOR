@@ -20,7 +20,7 @@ I'm a **Student** passionate about **Games**, **Tech** and **Programming**.
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:c-plusplus.svg" alt="C++" width=48 height=48></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:javascript.svg" alt="JavaScript" width=48 height=48></a>
 </span>
-
+<br>
 <br>
 
 ## Languages & Frameworks (worked with)
