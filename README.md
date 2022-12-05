@@ -9,7 +9,7 @@ I'm a **Student** passionate about **Games**, **Tech** and **Programming**.
 * 💻 **Computer Enthusiast**
 * ✉️ **Email me at nileshmukherjee1855@gmail.com**
 * 👦 **About me:** 📖 Book Reader, 🎮 Gamer, 🎵 Music Lover
-* <img src="https://api.iconify.design/logos:microsoft-windows.svg" alt="Linux" width=24 height=24><img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=24 height=24> **Windows and Linux User** (I use Manjaro, btw)
+* <img src="https://api.iconify.design/logos:microsoft-windows.svg" alt="Linux" width=22 height=22> <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=22 height=22> **Windows and Linux User** (I use Manjaro, btw)
 
 ![](https://github-readme-stats.vercel.app/api?username=X-PROFESSOR)
 <br>
